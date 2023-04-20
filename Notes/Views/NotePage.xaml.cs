@@ -1,4 +1,3 @@
-using static Android.Content.ClipData;
 namespace Notes.Views;
 
 [QueryProperty(nameof(ItemId), nameof(ItemId))]
